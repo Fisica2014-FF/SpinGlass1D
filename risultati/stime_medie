@@ -1,0 +1,22 @@
+sempre con seed 43, 2300 atomi e 100 sweep di montecarlo
+
+T=0.5
+Media temporale E: -0.0127921
+Media temporale M: 0.00196311
+
+T=0.75
+Media temporale E: -0.0159614
+Media temporale M: 0.00350461
+
+T=1
+Media temporale E: -0.0329039
+Media temporale M: 0.00179183
+
+T=1.2
+Media temporale E: -0.0422801
+Media temporale M: -0.00631094
+
+T=1.5
+Media temporale E: -0.057899
+Media temporale M: -0.00700922
+ 
