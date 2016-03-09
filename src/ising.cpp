@@ -22,6 +22,7 @@ struct atomo {
 };
 
 //Gaussiana con media mu e varianza sigma
+// Presa da wikipedia
 double boxmuller(double mu, double sigma) {
 
 	const double epsilon = std::numeric_limits<double>::min();
@@ -95,6 +96,7 @@ int main(int argc, char* argv[]) {
 	const double T = atof(argv[2]);
 	// Seed di rand
 	const long seed = atol(argv[3]);
+	// Quanti sweep di Montecarlo fare (fare Nsweep*L spin flip)
 	const long Nsweep = atol(argv[4]);
 
 
