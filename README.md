@@ -13,6 +13,7 @@ Now go into one of the alternative versions, like Optimized_Super/, and `make` i
 cd Optimized_Super/
 make
 ```
+If  necessary do a `make clean` before `make`
 
 ## Running
 Now run the file  `./Ising`. It has four arguments:
