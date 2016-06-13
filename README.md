@@ -15,7 +15,7 @@ make
 ```
 
 ## Running
-Now run the file  `./ising`. It has four arguments:
+Now run the file  `./Ising`. It has four arguments:
 * int L: Atoms in the lattice, 
 * float T: Temperature
 * int seed: seed Random Nuumber Generator
